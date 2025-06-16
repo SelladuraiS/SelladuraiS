@@ -52,9 +52,9 @@ Check out my portfolio for projects, resume, and contact:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/selladurai-s)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/SelladuraiS)  
-✉️ **your.email@gmail.com**
+✉️ **selladurais2020@gmail.com**
 
 ---
 
